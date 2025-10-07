@@ -199,7 +199,7 @@ Você pode usar, modificar e redistribuir este código livremente, desde que man
 
 ### 🌐 Contato  
 
-📧 pedro.tuttman@ufrj.br  
+📧 pedrotuttman1@gmail.com  
 💻 [GitHub – Pedro Tuttman](https://github.com/PedroTuttman)  
 
 ---
